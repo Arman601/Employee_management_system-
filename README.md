@@ -64,7 +64,7 @@ We keepin' it classic now, but here’s what’s coming in v2.0:
 ## 🚀 How to Run This Project
 
 1. Clone this repo:  
-https://github.com/Shiva9570/Employee_management_system.git
+[Repo Link](https://github.com/Arman601/Employee_management_system)
 
 
 
@@ -80,9 +80,7 @@ https://github.com/Shiva9570/Employee_management_system.git
 
 ## 👨‍🎤 Author
 
-Made with ❤️ by Shibendra Mishra (Shiva9570)
-🎤 Rapper off-stage | 💻 Java Coder on-stage  
-_"Mixing music with modules, and code with control."_
+Made with ❤️ by Md Arman Hasan 
 
 ---
 
@@ -91,4 +89,3 @@ _"Mixing music with modules, and code with control."_
 This project is open-source under the MIT License – feel free to fork, remix, and vibe with it.
 
 ---
- for any queries hit me on instagram - @vierdo.musicx
